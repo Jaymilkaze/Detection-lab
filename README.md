@@ -1,4 +1,3 @@
-# Detection-lab
 # DETECTION LAB
 
 ## Objective
